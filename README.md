@@ -52,5 +52,4 @@ This console application allows the user to explore and manipulate various data 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/dsa-interactive-console-project.git
-   cd dsa-interactive-console-project
+   git clone https://github.com/himaenshuu/dsa-interactive-console-project
