@@ -1,6 +1,6 @@
 # 📚 Data Structures Explorer - Interactive C Console Project
 
-An interactive, menu-driven console application written in C that demonstrates fundamental data structures and their operations. This academic project was built during the 3rd semester of the B.Tech Computer Science program to deepen understanding of core DSA concepts through hands-on coding.
+An interactive, menu-driven console application written in C that demonstrates fundamental data structures and their operations. This academic project was built during the 3rd semester of the B.Tech Computer Science program to deepen understanding of core DSA concepts through hands-on coding.It involves 2500 plus lines of code.
 
 ---
 
